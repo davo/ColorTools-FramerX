@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"dependencies": {
+		"react-window":"^1.8.5",
+		"react-virtualized-auto-sizer":"^1.0.2"
+	},
+	"framer": {
+		"id": "4ba9ed4b-16b2-48bb-9559-cefc792ad5af"
+	},
+	"author": "Davo Galavotti"
+}

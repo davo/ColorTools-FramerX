@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/chroma-js": "latest",
+		"@types/react": "^16.8",
+		"@types/react-color": "latest"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"dependencies": {
+		"bezier-easing": "latest",
+		"chroma-js": "latest",
+		"react-color": "latest",
+		"styled-components": "latest"
+	},
+	"framer": {
+		"id": "044b5bbb-5e7f-41e7-ab83-b1b40d022930"
+	},
+	"author": "Davo Galavotti"
+}
