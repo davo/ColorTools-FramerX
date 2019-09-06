@@ -3,12 +3,14 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@types/chroma-js": "latest",
-		"@types/react": "^16.8",
-		"@types/react-color": "latest"
+		"@types/react": "^16.9.2",
+		"@types/react-color": "latest",
+		"framer": "^1.1.2",
+		"lodash": "^4.17.15"
 	},
 	"peerDependencies": {
-		"framer": "^1.0",
-		"react": "^16.8"
+		"framer": "^1.1.2",
+		"react": "^16.9.0"
 	},
 	"dependencies": {
 		"bezier-easing": "latest",
