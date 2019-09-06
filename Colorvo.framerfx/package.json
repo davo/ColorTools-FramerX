@@ -1,0 +1,9 @@
+{
+	"framer": {
+		"id": "c87e013b-bb87-4a9c-9eae-1d185ff0e4b5"
+	},
+	"author": "Ray Yip",
+	"peerDependencies": {
+		"framer": "^1"
+	}
+}

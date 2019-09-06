@@ -1,6 +1,7 @@
 import { Color } from "framer"
 
 // Data: Colors array
+
 export const colors = [
     "AliceBlue",
     "AntiqueWhite",

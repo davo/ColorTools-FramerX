@@ -32,3 +32,5 @@ node_modules/
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+
+WeatherApp.framerx
