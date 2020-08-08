@@ -6,7 +6,7 @@
 		"@types/react": "^16.9.2",
 		"@types/react-color": "latest",
 		"framer": "^1.1.2",
-		"lodash": "^4.17.15"
+		"lodash": "^4.17.19"
 	},
 	"peerDependencies": {
 		"framer": "^1.1.2",
